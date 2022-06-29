@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
+- 📫 You can reach me By facebook/ www.facebook.com/selimhasan20
 
 <!---
 SelimHasan/SelimHasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
